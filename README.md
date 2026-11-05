@@ -66,7 +66,7 @@ Clusters spectra stored in Excel (energy in column 1, one sample per column). Ru
 
 1. Download or clone the repository:
    ```
-   git clone https://github.com/<your-username>/aerosol-microanalysis-matlab.git
+   git clone https://github.com/<tpyemson>/aerosol-microanalysis-matlab.git
    ```
 2. In MATLAB, add the folders to your path:
    ```matlab
@@ -85,7 +85,7 @@ Output files from the PSD scripts are written to MATLAB's current folder.
 
 If these tools are useful in your work, please cite this repository:
 
-> Olayemi, T. E. (2026). *Aerosol Microanalysis MATLAB Tools*. GitHub. https://github.com/<your-username>/aerosol-microanalysis-matlab
+> Olayemi, T. E. (2026). *Aerosol Microanalysis MATLAB Tools*. GitHub. https://github.com/<tpyemson>/aerosol-microanalysis-matlab
 
 ## License
 
