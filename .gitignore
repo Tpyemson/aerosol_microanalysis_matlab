@@ -1,0 +1,34 @@
+# MATLAB autosave and editor files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB data and figures (keep data out of the repo)
+*.mat
+*.fig
+*.mlx.bak
+
+# Compiled / generated
+*.mex*
+slprj/
+codegen/
+*.slxc
+
+# Instrument and analysis data
+*.hdr
+*.xim
+*.stxm
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+
+# Script outputs
+PSD_Results.xlsx
+PSD_Plots.png
+PSD_Groups.png
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
